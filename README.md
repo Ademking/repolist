@@ -44,6 +44,9 @@ Generate a wordlist by providing the URL of the GitHub repository:
 ```bash
 repolist -u https://gihtub.com/user/repo
 ```
+![demo](https://github.com/Ademking/repolist/assets/12462188/f94ade42-06fd-4eb9-a846-65519f1f651b)
+
+
 
 ## Options
 
