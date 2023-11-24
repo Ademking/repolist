@@ -85,6 +85,8 @@ repolist -u "https://github.com/WordPress/WordPress" | ffuf -u "http://example.c
 
 GitHub has a rate limit. To avoid this, you can provide a GitHub token using the `-t` option. This will increase the rate limit. You can create a GitHub token by following [these instructions](https://docs.github.com/en/github/authenticating-to-github/creating-a-personal-access-token).
 
+You can also use a proxy by using the `-p` option.
+
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
