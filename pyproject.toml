@@ -1,0 +1,22 @@
+[tool.poetry]
+name = "repolist"
+version = "0.1.0"
+description = "Generate wordlists from Github repositories"
+authors = ["Adem Kouki <ademkingnew@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.9"
+requests = "^2.31.0"
+argparse = "^1.4.0"
+colorama = "^0.4.6"
+
+[tool.poetry.scripts]
+repolist = "repolist.cli:main"
+
+[tool.poetry.group.dev.dependencies]
+pytest = "^7.4.3"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
