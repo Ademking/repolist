@@ -4,7 +4,7 @@
 [![PyPI version](https://badge.fury.io/py/repolist.svg)](https://badge.fury.io/py/repolist)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-![image](https://github.com/Ademking/repolist/assets/12462188/9b72b1ee-6cf8-4ff5-9bc0-c994ecb9ee03)
+![](https://i.imgur.com/lhb9rCE.png)
 
 
 Repolist is a command-line interface (CLI) tool designed to generate wordlists from GitHub repositories. It simplifies the process of extracting files and directories from GitHub repos, enabling the creation of custom wordlists for penetration testing and bug bounty programs.
