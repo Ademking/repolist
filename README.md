@@ -6,9 +6,12 @@
 
 ![image](https://github.com/Ademking/repolist/assets/12462188/9b72b1ee-6cf8-4ff5-9bc0-c994ecb9ee03)
 
+
 Repolist is a command-line interface (CLI) tool designed to generate wordlists from GitHub repositories. It simplifies the process of extracting files and directories from GitHub repos, enabling the creation of custom wordlists for penetration testing and bug bounty programs.
 
 > You can read more about it in this blog: [https://ademkouki.tech/posts/repolist](https://ademkouki.tech/posts/repolist/)
+
+[![Product Hunt](https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=426924&theme=light)](https://www.producthunt.com/posts/repolist?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-repolist)
 
 
 Table of Contents
